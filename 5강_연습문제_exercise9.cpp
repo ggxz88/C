@@ -2,11 +2,11 @@
 
 int main()
 {
-//9¹ø
+//9Å¡Å™
 	int score = 0;
 	char grade;
 	
-	printf("Á¡¼ö:");
+	printf("ÃÄ„ÅºÃ¶:");
 	scanf("%d", &score);
 
 	int iscore = score/10;
